@@ -39,3 +39,22 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Node
+/node_modules
+
+# Next.js build
+/.next
+/out
+
+# Firebase local config
+.firebase/
+
+# Local env files (do NOT commit)
+.env.local
+.env.*.local
+
+# OS / misc
+.DS_Store
+*.log
+
